@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/menu/menu_verbos_agregados_activity.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/menu/menu_verbos_agregados_activity.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/menu/menu_historial.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/menu/menu_historial.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/menu/context_menu_list_palabras.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/menu/context_menu_list_palabras.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/menu/menu_generico_situaciones_activity.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/menu/menu_generico_situaciones_activity.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/menu/menu_palabras_agregadas_activity.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/menu/menu_palabras_agregadas_activity.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/menu/menu_todos_los_verbos_activity.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/menu/menu_todos_los_verbos_activity.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/menu/context_menu_list_verbs.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/menu/context_menu_list_verbs.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/menu/menu_main_activity.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/menu/menu_main_activity.xml"
+    }
+]

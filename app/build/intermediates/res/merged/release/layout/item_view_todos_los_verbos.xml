@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="#FAFAC5"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation ="horizontal"
+        android:layout_gravity="center"
+        >
+
+        <TextView
+            android:id="@+id/textViewVerboEnEspLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/esp"
+            android:textSize="12dp"
+            android:textColor="#000"
+            android:layout_gravity="center_vertical"
+            />
+
+        <TextView
+            android:id="@+id/textViewVerboEnEsp"
+            android:layout_width="95dp"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:layout_gravity="center"
+            android:text="xxxxxsadadsasss"
+            />
+
+        <TextView
+            android:id="@+id/textViewVerboEnIngLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ing"
+            android:textSize="12dp"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation ="vertical"
+            >
+            <TextView
+                android:id="@+id/textViewVerboEnIngCol1"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:text="overcome"
+                android:textSize="12dp"
+                />
+            <TextView
+                android:id="@+id/textViewVerboEnIngCol2"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:text="overcame"
+                android:textSize="12dp"
+                />
+            <TextView
+                android:id="@+id/textViewVerboEnIngCol3"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:text="overcome"
+                android:textSize="12dp"
+                />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageViewVerboIrregVoice"
+            android:foreground="@mipmap/ic_sound_verb"
+            android:layout_width="33dp"
+            android:layout_height="33dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            />
+
+        <ImageView
+            android:id="@+id/imageViewStar"
+            android:foreground="@mipmap/ic_void_star"
+            android:layout_width="33dp"
+            android:layout_height="33dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            />
+    </LinearLayout>
+</LinearLayout>

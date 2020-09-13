@@ -1,0 +1,187 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:src="@drawable/header_logo"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:scaleType="center"
+        android:background="@color/amarilloDefault"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:text="@string/ingresarCantidad"
+        android:textSize="20dp"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/editTextCantidad"
+            android:inputType="number"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginBottom="4dp"
+            android:maxLength="5"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:hint="@string/cantidad" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="160dp"
+            android:layout_gravity="center_vertical"
+            android:text="@string/modoContdown"
+            android:textColor="#000"
+            android:layout_marginTop="5dp"
+            android:textSize="25dp"
+            />
+
+        <ImageView
+            android:id="@+id/imageViewClock"
+            android:foreground="@mipmap/ic_clock"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="5dp"
+            />
+
+        <ImageView
+            android:id="@+id/imageViewClockOn"
+            android:foreground="@mipmap/ic_clock_on"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:visibility="invisible"
+            android:layout_marginTop="5dp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioGroup
+            android:id="@+id/radioGroupSeleccion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <RadioButton
+                android:id="@+id/radioButtonConTodos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/conTodosVerbosIrregulares"
+                android:textSize="25dp"
+                android:checked="true" />
+
+            <RadioButton
+                android:id="@+id/radioButtonConFavoritos"
+                android:layout_marginTop="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25dp"
+                android:text="@string/conVerbosIrregularesFavoritos"/>
+        </RadioGroup>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/textViewCantidadParte1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000"
+                    android:text=" (max: "
+                    android:layout_toRightOf="@+id/radioGroupSeleccion"
+                    android:layout_marginTop="6dp"
+                    android:textSize="25dp"
+
+                    />
+
+                <TextView
+                    android:id="@+id/textViewCantidadParte2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000"
+                    android:text="40"
+                    android:layout_marginTop="6dp"
+                    android:textSize="25dp"
+                    />
+
+                <TextView
+                    android:id="@+id/textViewCantidadParte3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000"
+                    android:text=")"
+                    android:layout_marginTop="6dp"
+                    android:textSize="25dp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                >
+
+                <TextView
+                    android:id="@+id/textViewCantidadFavoritosParte1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000"
+                    android:text=" (max: "
+                    android:layout_toRightOf="@+id/radioGroupSeleccion"
+                    android:layout_marginTop="5dp"
+                    android:textSize="25dp"
+                    />
+
+                <TextView
+                    android:id="@+id/textViewCantidadFavoritosParte2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000"
+                    android:text="40"
+                    android:layout_marginTop="5dp"
+                    android:textSize="25dp"
+                    />
+
+                <TextView
+                    android:id="@+id/textViewCantidadFavoritosParte3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000"
+                    android:text=")"
+                    android:layout_marginTop="5dp"
+                    android:textSize="25dp"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

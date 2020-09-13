@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.binary_winters.projects.iverbs"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <application
+        android:name="com.binary_winters.projects.iverbs.MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.binary_winters.projects.iverbs.activities.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.binary_winters.projects.iverbs.activities.HelpActivity" />
+        <activity android:name="com.binary_winters.projects.iverbs.activities.SobreIverbsActivity" />
+        <activity android:name="com.binary_winters.projects.iverbs.activities.ComoJugarActivity" />
+        <activity android:name="com.binary_winters.projects.iverbs.activities.AddVerbActivity" />
+        <activity android:name="com.binary_winters.projects.iverbs.activities.VerbosAgregadosActivity" />
+        <activity android:name="com.binary_winters.projects.iverbs.activities.HistorialDePartidaActivity" />
+        <activity android:name="com.binary_winters.projects.iverbs.plus.activities.ListaMisPalabrasActivity" />
+        <activity android:name="com.binary_winters.projects.iverbs.plus.activities.PracticarMisPalabrasActivity" />
+        <activity android:name="com.binary_winters.projects.iverbs.activities.TodosLosVerbosActivity" />
+        <activity android:name="com.binary_winters.projects.iverbs.activities.PartidaIverbsActivity" />
+        <activity android:name="com.binary_winters.projects.iverbs.situaciones.activities.ListaSituacionGenericaActivity" />
+        <activity android:name="com.binary_winters.projects.iverbs.situaciones.activities.PracticarSituacionGenericaActivity" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.binary_winters.projects.iverbs"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

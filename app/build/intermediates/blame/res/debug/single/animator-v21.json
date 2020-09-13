@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/chipo/.android/build-cache/892ea9f5688941b4fc6a48a4e4043be4d0bd847c/output/res/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/chipo/.android/build-cache/6c66d308db0894de9df7141b9cc1a48f63e6d2ba/output/res/animator-v21/design_appbar_state_list_animator.xml"
+    }
+]

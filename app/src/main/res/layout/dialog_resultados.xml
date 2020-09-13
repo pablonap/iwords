@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imageViewShareScore"
+        android:src="@mipmap/ic_share_score"
+        android:layout_width="34dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="12dp"
+        />
+
+    <TextView
+        android:id="@+id/textViewResultadosLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:textColor="#000"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:text="@string/resultados"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/textViewResultados"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textColor="#000"
+        android:layout_marginTop="20dp"
+        android:text="@string/respuestasCorrectas"
+        android:layout_below="@+id/textViewResultadosLabel"
+        android:layout_alignLeft="@+id/textViewResultadosLabel"
+        />
+
+    <TextView
+        android:id="@+id/textViewPregunta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:layout_alignLeft="@+id/textViewResultadosLabel"
+        android:layout_below="@+id/textViewResultados"
+        android:layout_marginTop="20dp"
+        />
+</RelativeLayout>

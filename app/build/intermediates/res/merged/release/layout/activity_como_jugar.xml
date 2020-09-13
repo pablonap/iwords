@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.binary_winters.projects.iverbs.activities.ComoJugarActivity"
+    android:background="@drawable/background_app"
+    >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        >
+
+        <ImageView
+            android:id="@+id/imageViewTexto1"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/circle_shape_yellow" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageViewTexto1"
+            android:layout_alignTop="@+id/imageViewTexto1"
+            android:layout_alignRight="@+id/imageViewTexto1"
+            android:layout_alignBottom="@+id/imageViewTexto1"
+            android:gravity="center"
+            android:text="@string/comoJugarTexto1"
+            android:textColor="#000" />
+
+        <ImageView
+            android:id="@+id/imageViewTexto2"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageViewTexto1"
+            android:src="@drawable/circle_shape_orange" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageViewTexto2"
+            android:layout_alignTop="@+id/imageViewTexto2"
+            android:layout_alignRight="@+id/imageViewTexto2"
+            android:layout_alignBottom="@+id/imageViewTexto2"
+            android:gravity="center"
+            android:text="@string/comoJugarTexto2"
+            android:textColor="#000" />
+
+        <ImageView
+            android:id="@+id/imageViewTexto3"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageViewTexto2"
+            android:src="@drawable/circle_shape_yellow" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageViewTexto3"
+            android:layout_alignTop="@+id/imageViewTexto3"
+            android:layout_alignRight="@+id/imageViewTexto3"
+            android:layout_alignBottom="@+id/imageViewTexto3"
+            android:gravity="center"
+            android:text="@string/comoJugarTexto3"
+            android:textColor="#000" />
+
+        <ImageView
+            android:id="@+id/imageViewTexto4"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageViewTexto3"
+            android:src="@drawable/circle_shape_orange" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageViewTexto4"
+            android:layout_alignTop="@+id/imageViewTexto4"
+            android:layout_alignRight="@+id/imageViewTexto4"
+            android:layout_alignBottom="@+id/imageViewTexto4"
+            android:gravity="center"
+            android:text="@string/comoJugarTexto4"
+            android:textColor="#000" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/chipo/.android/build-cache/d23f64e5348a479d09533358e25b1c0016a5e97d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/chipo/.android/build-cache/d23f64e5348a479d09533358e25b1c0016a5e97d/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/chipo/.android/build-cache/d23f64e5348a479d09533358e25b1c0016a5e97d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/chipo/.android/build-cache/d23f64e5348a479d09533358e25b1c0016a5e97d/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

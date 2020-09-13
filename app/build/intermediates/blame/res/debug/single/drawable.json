@@ -1,0 +1,570 @@
+[
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/rec_shape_push.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/rec_shape_push.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_yellow_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_yellow_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_orange_l.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_orange_l.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/chipo/.android/build-cache/892ea9f5688941b4fc6a48a4e4043be4d0bd847c/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_orange.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_orange.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_solo_escritura.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_solo_escritura.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/chipo/.android/build-cache/892ea9f5688941b4fc6a48a4e4043be4d0bd847c/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/chipo/.android/build-cache/af0f687c85383b2fbeb9f0c86843825f0073e659/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_generic.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_generic.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_orange_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_orange_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_orange_l.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_orange_l.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/image_example.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/image_example.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/header_logo.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/header_logo.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/chipo/.android/build-cache/af0f687c85383b2fbeb9f0c86843825f0073e659/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_columnas_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_columnas_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/chipo/.android/build-cache/6c66d308db0894de9df7141b9cc1a48f63e6d2ba/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_columnas_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_columnas_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/baackground_button.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/baackground_button.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/header_logo.png",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/header_logo.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/chipo/.android/build-cache/af0f687c85383b2fbeb9f0c86843825f0073e659/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_columnas.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_columnas.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/rec_shape_push.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/rec_shape_push.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/image_example.png",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/image_example.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_solo_escritura_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_solo_escritura_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/rec_shape_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/rec_shape_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_yellow_l.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_yellow_l.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/chipo/.android/build-cache/d23f64e5348a479d09533358e25b1c0016a5e97d/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_generic_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_generic_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_yellow_l.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_yellow_l.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_solo_escritura_pressed_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_solo_escritura_pressed_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/british_flag.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/british_flag.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/background_dialog_situaciones.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/background_dialog_situaciones.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/rec_shape.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/rec_shape.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_solo_escritura_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_solo_escritura_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/chipo/.android/build-cache/892ea9f5688941b4fc6a48a4e4043be4d0bd847c/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/rec_shape_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/rec_shape_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/rec_shape_push_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/rec_shape_push_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/edit_text.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/edit_text.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/spanish_flag.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/spanish_flag.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_solo_escritura_pressed_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_solo_escritura_pressed_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_generic.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_generic.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/british_flag.png",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/british_flag.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_solo_escritura_pressed.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_solo_escritura_pressed.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_orange_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_orange_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/baackground_button.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/baackground_button.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_yellow.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_yellow.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/chipo/.android/build-cache/d23f64e5348a479d09533358e25b1c0016a5e97d/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_yellow.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_yellow.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_yellow_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_yellow_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/edit_text.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/edit_text.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/chipo/.android/build-cache/af0f687c85383b2fbeb9f0c86843825f0073e659/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/rec_shape_push_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/rec_shape_push_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_solo_escritura.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_solo_escritura.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/spanish_flag.png",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/spanish_flag.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_solo_escritura_pressed.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_solo_escritura_pressed.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/background_app.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/background_app.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/chipo/.android/build-cache/892ea9f5688941b4fc6a48a4e4043be4d0bd847c/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_orange.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_orange.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/chipo/.android/build-cache/6c66d308db0894de9df7141b9cc1a48f63e6d2ba/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/chipo/.android/build-cache/6c66d308db0894de9df7141b9cc1a48f63e6d2ba/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/chipo/.android/build-cache/892ea9f5688941b4fc6a48a4e4043be4d0bd847c/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/circle_shape_generic_xl.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/circle_shape_generic_xl.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/background_app.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/drawable/background_app.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/rec_shape.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/rec_shape.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/background_dialog_situaciones.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/background_dialog_situaciones.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/chipo/.android/build-cache/6c66d308db0894de9df7141b9cc1a48f63e6d2ba/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/chipo/.android/build-cache/d23f64e5348a479d09533358e25b1c0016a5e97d/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/chipo/.android/build-cache/6c66d308db0894de9df7141b9cc1a48f63e6d2ba/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/chipo/.android/build-cache/d23f64e5348a479d09533358e25b1c0016a5e97d/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/circle_shape_columnas.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/drawable/circle_shape_columnas.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/drawable/tooltip_frame_dark.xml"
+    }
+]

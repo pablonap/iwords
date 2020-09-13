@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/borrar_verbo_item"
+        android:title="@string/borrar"
+        />
+
+    <item
+        android:id="@+id/editar_verbo_item"
+        android:title="@string/modificar"
+        />
+
+    <item
+        android:id="@+id/ver_texto_verbo_item"
+        android:title="@string/verTexto"
+        />
+</menu>

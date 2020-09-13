@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    tools:context="com.binary_winters.projects.iverbs.activities.HelpActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        >
+
+        <Button
+            android:id="@+id/imageButtonComoJugar"
+            android:layout_width="180dp"
+            android:layout_height="200dp"
+            android:background="@color/amarilloDefault"
+            android:textAlignment="center"
+            android:text="@string/tipsComoJugar"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:layout_marginLeft="1.5dp"
+            android:layout_marginRight="1.5dp"
+            />
+
+        <Button
+            android:id="@+id/imageButtonAcercaDeIverbs"
+            android:layout_width="180dp"
+            android:layout_height="200dp"
+            android:layout_alignBottom="@+id/imageButtonComoJugar"
+            android:layout_toRightOf="@+id/imageButtonComoJugar"
+            android:background="@color/grisParaBloqueAcercaDe"
+            android:layout_marginLeft="1.5dp"
+            android:layout_marginRight="2.5dp"
+            android:text="@string/sobreIwords"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>

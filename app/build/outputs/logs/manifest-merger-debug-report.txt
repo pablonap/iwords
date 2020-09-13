@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:6:22-63
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:7:22-68
+application
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:9:5-49:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/chipo/.android/build-cache/191f0d4eab00c3897da09ee4abffb97a2cb599ec/output/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /home/chipo/.android/build-cache/8c2b0693afb825a826b4b391fd7e4585ae986677/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/chipo/.android/build-cache/78bdec05dddc5e4cac2c8ce0515ad58a7ab35e71/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:26.1.0] /home/chipo/.android/build-cache/6c66d308db0894de9df7141b9cc1a48f63e6d2ba/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/chipo/.android/build-cache/4091988b143bea932590d506239dda312791d993/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/chipo/.android/build-cache/39489068a242459360171887c73f4a24c1c42a38/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/chipo/.android/build-cache/a3db861619773a356302676e4dd4bda839ac0f7f/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/chipo/.android/build-cache/8393517aa7c2bfafd0b310bf8c9074c9265785f9/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/chipo/.android/build-cache/e21d324c876f4bc8b72e67bc5cf9d4e8955d1e16/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/chipo/.android/build-cache/e221bc611b00cbb0a02e31257705fd493bd10f63/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/chipo/.android/build-cache/7390386ace727f5938e3712edaea85d69091a106/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/chipo/.android/build-cache/8d25323b44d470199c0ae2989b68462ae7488476/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/chipo/.android/build-cache/895145915aad6e2a37711a39b287771e37f9ab31/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/chipo/.android/build-cache/af0f687c85383b2fbeb9f0c86843825f0073e659/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/chipo/.android/build-cache/e7503519e72398d4d99364db9f44135228c9d5a0/output/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:14:9-48
+	android:allowBackup
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:10:9-30
+activity#com.binary_winters.projects.iverbs.activities.MainActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:17:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.binary_winters.projects.iverbs.activities.HelpActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:24:9-61
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:24:19-58
+activity#com.binary_winters.projects.iverbs.activities.SobreIverbsActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:25:9-68
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:25:19-65
+activity#com.binary_winters.projects.iverbs.activities.ComoJugarActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:26:9-66
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:26:19-63
+activity#com.binary_winters.projects.iverbs.activities.AddVerbActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:27:9-64
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:27:19-61
+activity#com.binary_winters.projects.iverbs.activities.VerbosAgregadosActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:28:9-72
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:28:19-69
+activity#com.binary_winters.projects.iverbs.activities.HistorialDePartidaActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:29:9-75
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:29:19-72
+activity#com.binary_winters.projects.iverbs.plus.activities.ListaMisPalabrasActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:30:9-78
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:30:19-75
+activity#com.binary_winters.projects.iverbs.plus.activities.PracticarMisPalabrasActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:31:9-82
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:31:19-79
+activity#com.binary_winters.projects.iverbs.activities.TodosLosVerbosActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:32:9-71
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:32:19-68
+activity#com.binary_winters.projects.iverbs.activities.PartidaIverbsActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:33:9-79
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:33:19-67
+activity#com.binary_winters.projects.iverbs.situaciones.activities.ListaSituacionGenericaActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:34:9-100
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:34:19-88
+activity#com.binary_winters.projects.iverbs.situaciones.activities.PracticarSituacionGenericaActivity
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:35:9-104
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:35:19-92
+provider#android.support.v4.content.FileProvider
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:38:9-46:20
+	android:authorities
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:40:13-69
+	android:grantUriPermissions
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:42:13-47
+	android:exported
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:39:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:43:13-45:58
+	android:resource
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:45:17-55
+	android:name
+		ADDED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml:44:17-67
+uses-sdk
+INJECTED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.realm:realm-android-library:3.5.0] /home/chipo/.android/build-cache/af192c2928a035110f8b434cb3cae760634ea984/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/chipo/.android/build-cache/281cec86cb82b13c854958fe893644f5d694cd29/output/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/chipo/.android/build-cache/191f0d4eab00c3897da09ee4abffb97a2cb599ec/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /home/chipo/.android/build-cache/8c2b0693afb825a826b4b391fd7e4585ae986677/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/chipo/.android/build-cache/78bdec05dddc5e4cac2c8ce0515ad58a7ab35e71/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] /home/chipo/.android/build-cache/6c66d308db0894de9df7141b9cc1a48f63e6d2ba/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/chipo/.android/build-cache/4091988b143bea932590d506239dda312791d993/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/chipo/.android/build-cache/39489068a242459360171887c73f4a24c1c42a38/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/chipo/.android/build-cache/a3db861619773a356302676e4dd4bda839ac0f7f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/chipo/.android/build-cache/8393517aa7c2bfafd0b310bf8c9074c9265785f9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/chipo/.android/build-cache/e21d324c876f4bc8b72e67bc5cf9d4e8955d1e16/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/chipo/.android/build-cache/e221bc611b00cbb0a02e31257705fd493bd10f63/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/chipo/.android/build-cache/7390386ace727f5938e3712edaea85d69091a106/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/chipo/.android/build-cache/8d25323b44d470199c0ae2989b68462ae7488476/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/chipo/.android/build-cache/895145915aad6e2a37711a39b287771e37f9ab31/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/chipo/.android/build-cache/af0f687c85383b2fbeb9f0c86843825f0073e659/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/chipo/.android/build-cache/e7503519e72398d4d99364db9f44135228c9d5a0/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/chipo/.android/build-cache/6c66d308db0894de9df7141b9cc1a48f63e6d2ba/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/chipo/.android/build-cache/78bdec05dddc5e4cac2c8ce0515ad58a7ab35e71/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/chipo/.android/build-cache/4091988b143bea932590d506239dda312791d993/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/chipo/.android/build-cache/39489068a242459360171887c73f4a24c1c42a38/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/chipo/.android/build-cache/a3db861619773a356302676e4dd4bda839ac0f7f/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/chipo/.android/build-cache/8393517aa7c2bfafd0b310bf8c9074c9265785f9/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/chipo/.android/build-cache/e21d324c876f4bc8b72e67bc5cf9d4e8955d1e16/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/chipo/.android/build-cache/e221bc611b00cbb0a02e31257705fd493bd10f63/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/chipo/.android/build-cache/7390386ace727f5938e3712edaea85d69091a106/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/chipo/.android/build-cache/8d25323b44d470199c0ae2989b68462ae7488476/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/chipo/.android/build-cache/895145915aad6e2a37711a39b287771e37f9ab31/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/chipo/.android/build-cache/af0f687c85383b2fbeb9f0c86843825f0073e659/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/chipo/.android/build-cache/78bdec05dddc5e4cac2c8ce0515ad58a7ab35e71/output/AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/chipo/.android/build-cache/78bdec05dddc5e4cac2c8ce0515ad58a7ab35e71/output/AndroidManifest.xml:23:9-47
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/chipo/.android/build-cache/e7503519e72398d4d99364db9f44135228c9d5a0/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/chipo/.android/build-cache/e7503519e72398d4d99364db9f44135228c9d5a0/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/chipo/.android/build-cache/e7503519e72398d4d99364db9f44135228c9d5a0/output/AndroidManifest.xml:26:13-58

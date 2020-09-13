@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    tools:context="com.binary_winters.projects.iverbs.activities.HistorialDePartidaActivity">
+
+    <include layout="@layout/main_toolbar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/main_toolbar">
+
+        <ImageView
+            android:id="@+id/imageViewTitulo"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/circle_shape_generic_xl"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageViewTitulo"
+            android:layout_alignTop="@+id/imageViewTitulo"
+            android:layout_alignRight="@+id/imageViewTitulo"
+            android:layout_alignBottom="@+id/imageViewTitulo"
+            android:gravity="center"
+            android:text="@string/historialDePartidas"
+            android:textColor="#000"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/textViewNoHayHistorialLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/noHayPartidas"
+            android:textColor="#000"
+            android:textSize="35dp"
+            android:textStyle="bold"
+            android:background="#FFFF00"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            />
+
+        <ListView
+            android:id="@+id/listViewHistorial"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/imageViewTitulo"
+            android:layout_marginTop="15dp"
+            >
+        </ListView>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_item_bckp"
+        android:title="@string/backup"
+        app:showAsAction="never"
+        android:orderInCategory="1"
+
+        >
+        <menu>
+            <item
+                android:id="@+id/menu_item_imp_backup"
+                android:title="@string/importar"
+                app:showAsAction="never"
+                />
+
+            <item
+                android:id="@+id/menu_item_exp_backup"
+                android:title="@string/exportar"
+                app:showAsAction="never"
+                />
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_item_help"
+        android:title="@string/acercaDe"
+        app:showAsAction="never"
+        android:icon="@mipmap/ic_help"
+        android:orderInCategory="1"
+        />
+
+</menu>

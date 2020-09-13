@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_dialog_situaciones"
+    >
+
+    <ImageView
+        android:id="@+id/imageViewPracticarSituacion"
+        android:layout_width="170dp"
+        android:layout_height="50dp"
+        android:background="@drawable/circle_shape_generic"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        />
+
+    <TextView
+        android:id="@+id/textPracticarMesero"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageViewPracticarSituacion"
+        android:layout_alignTop="@+id/imageViewPracticarSituacion"
+        android:layout_alignRight="@+id/imageViewPracticarSituacion"
+        android:layout_alignBottom="@+id/imageViewPracticarSituacion"
+        android:gravity="center"
+        android:text="@string/cargarPartidaEnMenuDeIverbs"
+        android:textColor="#404040"
+        android:textSize="16dp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/imageViewVerListaDeSituacion"
+        android:layout_width="170dp"
+        android:layout_height="50dp"
+        android:background="@drawable/circle_shape_generic"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/imageViewPracticarSituacion"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        />
+
+    <TextView
+        android:id="@+id/textViewVerMesero"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageViewVerListaDeSituacion"
+        android:layout_alignTop="@+id/imageViewVerListaDeSituacion"
+        android:layout_alignRight="@+id/imageViewVerListaDeSituacion"
+        android:layout_alignBottom="@+id/imageViewVerListaDeSituacion"
+        android:gravity="center"
+        android:text="@string/verLista"
+        android:textColor="#404040"
+        android:textSize="16dp"
+        android:textStyle="bold"/>
+
+</RelativeLayout>

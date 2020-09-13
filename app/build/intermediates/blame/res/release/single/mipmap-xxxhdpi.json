@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_historical.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_historical.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_clock_on.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_clock_on.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_find.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_find.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_sound_verb.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_sound_verb.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_ubicarse_situacion.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_ubicarse_situacion.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_restoran_situacion.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_restoran_situacion.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_help.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_help.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_work_interview_situacion.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_work_interview_situacion.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_list.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_list.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_add.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_share_score.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_share_score.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_void_star.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_void_star.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_en_el_doctor_situacion.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_en_el_doctor_situacion.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_circle_help.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_circle_help.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_trash.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_trash.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_mesero_situacion.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_mesero_situacion.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_full_star.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_full_star.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_airport_situaciones.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_airport_situaciones.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_test.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_test.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_clock.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_clock.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_supermercado_situacion.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_supermercado_situacion.png"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_front_desk_situacion.png",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/mipmap-xxxhdpi/ic_front_desk_situacion.png"
+    }
+]

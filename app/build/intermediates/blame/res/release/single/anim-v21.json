@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/chipo/.android/build-cache/892ea9f5688941b4fc6a48a4e4043be4d0bd847c/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/chipo/.android/build-cache/892ea9f5688941b4fc6a48a4e4043be4d0bd847c/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

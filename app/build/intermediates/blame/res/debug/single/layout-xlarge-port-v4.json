@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/fragment_menu_mis_palabras.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/fragment_menu_mis_palabras.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_main.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_main.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/fragment_menu_iverbs.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/fragment_menu_iverbs.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_design_palabras.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/dialog_design_palabras.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_main.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_main.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/item_view_todos_los_verbos.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/item_view_todos_los_verbos.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/fragment_menu_situaciones.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/fragment_menu_situaciones.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_sobre_iverbs.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_sobre_iverbs.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/main_toolbar.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/main_toolbar.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_todos_los_verbos.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_todos_los_verbos.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/item_view_historial.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/item_view_historial.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_lista_situaciones.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_lista_situaciones.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_show_example.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/dialog_show_example.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_partida_iverbs.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_partida_iverbs.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_historial_de_partida.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_historial_de_partida.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_design_palabras.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/dialog_design_palabras.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_buscar_palabra.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/dialog_buscar_palabra.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/main_toolbar.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/main_toolbar.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_help.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_help.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_historial_de_partida.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_historial_de_partida.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_help.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_help.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_como_jugar.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_como_jugar.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_resultados.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/dialog_resultados.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_practicar_mis_palabras.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_practicar_mis_palabras.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_practicar_mis_palabras.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_practicar_mis_palabras.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_design.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/dialog_design.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/item_view_historial.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/item_view_historial.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_como_jugar.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_como_jugar.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/fragment_menu_iverbs.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/fragment_menu_iverbs.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/fragment_menu_mis_palabras.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/fragment_menu_mis_palabras.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/fragment_menu_situaciones.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/fragment_menu_situaciones.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_agregar_palabra.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/dialog_agregar_palabra.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_add_verb.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_add_verb.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_verbos_agregados.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_verbos_agregados.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_todos_los_verbos.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_todos_los_verbos.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/situaciones_grid_item.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/situaciones_grid_item.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_lista_mis_palabras.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_lista_mis_palabras.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_show_example.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/dialog_show_example.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_agregar_palabra.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/dialog_agregar_palabra.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/item_view_verbo_agregado.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/item_view_verbo_agregado.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_partida_iverbs.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_partida_iverbs.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_contdown.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/dialog_contdown.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_design.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/dialog_design.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_situacion.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/dialog_situacion.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_situacion.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/dialog_situacion.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/item_view_palabra_agregada.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/item_view_palabra_agregada.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_resultados.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/dialog_resultados.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_lista_situaciones.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/activity_lista_situaciones.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/item_view_palabra_agregada.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/item_view_palabra_agregada.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_buscar_palabra.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/dialog_buscar_palabra.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_verbos_agregados.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_verbos_agregados.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/item_view_todos_los_verbos.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/item_view_todos_los_verbos.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_sobre_iverbs.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_sobre_iverbs.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/item_view_verbo_agregado.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/item_view_verbo_agregado.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_add_verb.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_add_verb.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/situaciones_grid_item.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/situaciones_grid_item.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/activity_lista_mis_palabras.xml",
+        "source": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/src/main/res/layout-xlarge-port/activity_lista_mis_palabras.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-xlarge-port-v4/dialog_contdown.xml",
+        "source": "/home/chipo/AndroidStudioProjects/Iverbs/app/src/main/res/layout-xlarge-port/dialog_contdown.xml"
+    }
+]

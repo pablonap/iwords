@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_item_find_palabra"
+        android:title="@string/buscar"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_find"
+        />
+
+    <item
+        android:id="@+id/menu_item_arriba_palabras"
+        android:title="@string/irArriba"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/menu_item_abajo_palabras"
+        android:title="@string/irAbajo"
+        app:showAsAction="never"
+        />
+
+</menu>

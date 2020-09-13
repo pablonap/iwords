@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    tools:context="com.binary_winters.projects.iverbs.fragments.MenuMisPalabrasFragment">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <ImageView
+            android:id="@+id/imageViewPracticarMisPalabras"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/circle_shape_generic"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:id="@+id/textPracticarMisPalabras"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageViewPracticarMisPalabras"
+            android:layout_alignTop="@+id/imageViewPracticarMisPalabras"
+            android:layout_alignRight="@+id/imageViewPracticarMisPalabras"
+            android:layout_alignBottom="@+id/imageViewPracticarMisPalabras"
+            android:gravity="center"
+            android:text="@string/cargarPartidaEnMenuDeIverbs"
+            android:textColor="#404040"
+            android:textSize="16dp"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/imageViewVerMisPalabras"
+            android:layout_marginTop="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/circle_shape_generic"
+            android:layout_below="@+id/imageViewPracticarMisPalabras"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:id="@+id/textVerMisPalabras"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageViewVerMisPalabras"
+            android:layout_alignTop="@+id/imageViewVerMisPalabras"
+            android:layout_alignRight="@+id/imageViewVerMisPalabras"
+            android:layout_alignBottom="@+id/imageViewVerMisPalabras"
+            android:gravity="center"
+            android:text="@string/verMisPalabras"
+            android:textColor="#404040"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>

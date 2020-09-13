@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="900dp">
+
+    <TextView
+        android:layout_width="550dp"
+        android:layout_height="45dp"
+        android:text="@string/ejemplo"
+        android:paddingTop="3dp"
+        android:textStyle="bold"
+        android:textSize="35dp"
+        android:textAlignment="center"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/cardview_light_background"
+        android:background="@color/amarilloDefault"
+        />
+
+    <ImageView
+        android:id="@+id/imageViewClock"
+        android:background="@drawable/image_example"
+        android:layout_marginTop="15dp"
+        android:layout_width="550dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>

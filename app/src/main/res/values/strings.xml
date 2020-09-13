@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">iWORDS</string>
+    <string name="sobreIverbsTexto1">Con iWords puedes <b>aprender jugando</b> mediante un proceso repetitivo y en poco tiempo notarás cómo de forma rápida aprenderás tanto la escritura como pronunciación ¡sin esfuerzo y sin darte cuenta!.</string>
+    <string name="sobreIverbsTexto2">Está enfocado al público hispano hablante ya que una de las opciones es escribir la pronunciación según el sonido de las letras en español.</string>
+    <string name="sobreIverbsTexto3">¡Puedes agregar a la app los verbos irregulares y palabras o frases que quieras!.</string>
+    <string name="sobreIverbsTexto4">El principal objetivo de iWords es realizar un aporte a la educación libre y dado que no hay otro beneficio que el de la publicidad, recomienda la app a tus amigos para que este proyecto pueda seguir creciendo y mejorando.</string>
+
+    <string name="comoJugarTexto1">Al comienzo, para practicar, es mejor que elijas cantidades <b>no mayores a cinco</b>, y a medida que progreses ir aumentándola.</string>
+    <string name="comoJugarTexto2">Cuando te equivoques <b>es clave</b> prestar mucha atención en la <b>forma correcta de escritura</b> para luego, en la repetición, poder hacerlo bien.</string>
+    <string name="comoJugarTexto3">Es importante también prestar atención en la <b>pronunciación del contenido</b> escuchando el audio que viene con la app y asegurarte de agregar el contenido correcto para luego asimilarlo.</string>
+    <string name="comoJugarTexto4">Haciendo clic en las estrellas podrás agregar cada palabra a tu conjunto de favoritos para poder directamente practicar aquello que te sea más difícil de memorizar.</string>
+
+    <!-- fragment_menu_iverbs -->
+    <string name="cargarPartidaEnMenuDeIverbs">CARGAR PARTIDA</string>
+    <string name="verbosIrregularesEnMenuDeIverbs">VERBOS IRREGULARES</string>
+    <string name="misVerbosIrregularesEnMenuDeIverbs">MIS VERBOS IRREGULARES</string>
+    <string name="historialEnMenuDeIverbs">HISTORIAL</string>
+
+    <string name="ejemplo">EJEMPLO</string>
+
+    <!-- dialog_design -->
+    <string name="ingresarCantidad">Ingresar cantidad a practicar</string>
+    <string name="cantidad">cantidad</string>
+    <string name="modoContdown">Modo contdown</string>
+    <string name="conTodosVerbosIrregulares">Con todos los verbos irregulares</string>
+    <string name="conVerbosIrregularesFavoritos">Con verbos irregulares favoritos</string>
+
+    <!-- activity_practicar_mis_palabras -->
+    <string name="pronunciacionOn">Pronunciación: ON</string>
+    <string name="pronunciacionOff">Pronunciación: OFF</string>
+    <string name="hintEscritura">escritura</string>
+    <string name="hintPronunciación">pronunciación</string>
+    <string name="buttonVerificar">VERIFICAR</string>
+
+    <!--dialog_contdown-->
+    <string name="ingresarSegundos">Ingresar segundos (min: 5" - max: 25")</string>
+
+    <!--dialog_agregar_palabra-->
+    <string name="palabraEnEsp">Palabra en Esp:</string>
+    <string name="pronunciacion">"Pronunciación: "</string>
+    <string name="rec">REC</string>
+    <string name="stop">STOP</string>
+    <string name="ing">"Ing: "</string>
+
+    <!--menu_verbos_agregados_activity-->
+    <string name="irArriba">Ir arriba</string>
+    <string name="irAbajo">Ir abajo</string>
+
+
+    <!--activity_add_verb-->
+    <string name="verboEnEsp">Verbo en Esp:</string>
+    <string name="infinitive">INFINITIVE</string>
+    <string name="pastSimple">PAST SIMPLE</string>
+    <string name="pastParticiple">PAST PARTICIPLE</string>
+    <string name="agregar">AGREGAR</string>
+
+    <string name="verbosAgregados">VERBOS AGREGADOS</string>
+    <string name="noSeAgregaronVerbos">NO SE AGREGARON VERBOS</string>
+
+    <string name="historialDePartidas">HISTORIAL DE PARTIDAS</string>
+    <string name="noHayPartidas">NO HAY PARTIDAS REGISTRADAS</string>
+
+    <string name="verMisPalabras">VER MIS PALABRAS</string>
+
+    <!--<string name="tipoSituacionMesero">MESERO</string>-->
+    <!--<string name="tipoSituacionEnRestoran">EN RESTORÁN</string>-->
+    <!--<string name="tipoSituacionEnAeropuerto">EN AEROPUERTO</string>-->
+    <!--<string name="tipoSituacionRecepcionDeHotel">RECEPCIÓN DE HOTEL</string>-->
+    <!--<string name="tipoSituacionEnElDoctor">EN EL DOCTOR</string>-->
+    <!--<string name="tipoSituacionEntrevistaDeTrabajo">ENTREVISTA DE TRABAJO</string>-->
+    <!--<string name="tipoSituacionSupermercado">SUPERMERCADO</string>-->
+    <!--<string name="tipoSituacionUbicarse">UBICARSE</string>-->
+
+    <!--menu-->
+
+    <string name="borrar">Borrar</string>
+    <string name="modificar">Modificar</string>
+    <string name="modificar_upper">MODIFICAR</string>
+    <string name="verTexto">Ver texto completo</string>
+    <string name="buscar">Buscar</string>
+
+    <string name="backup">Backup</string>
+    <string name="importar">Importar</string>
+    <string name="exportar">Exportar</string>
+    <string name="acercaDe">Acerca de...</string>
+
+    <string name="verLista">VER LISTA</string>
+
+    <!--activity_help-->
+    <string name="tipsComoJugar">TIPS \n CÓMO JUGAR APRENDIENDO</string>
+    <string name="sobreIwords">SOBRE iWORDS</string>
+
+    <string name="misPalabras">MIS PALABRAS</string>
+    <string name="noSeAgregaronPalabras">NO SE AGREGARON PALABRAS</string>
+
+    <string name="importando">Importando</string>
+
+    <string name="verbo">Verbo:</string>
+    <string name="verboAgregado">VERBO AGREGADO</string>
+
+    <string name="palabraEnIng">Palabra en ing:</string>
+
+    <string name="conTodasLasPalabras">Con todas las palabras</string>
+    <string name="conPalabrasFavoritas">Con palabras favoritas</string>
+
+    <string name="resultados">RESULTADOS</string>
+    <string name="respuestasCorrectas">RESPUESTAS CORRECTAS: 0 0%\nRESPUESTAS INCORRECTAS: 1 100%</string>
+
+    <string name="fecha">Fecha:</string>
+    <string name="nroDeVerbos">"Nro de verbos: "</string>
+    <string name="aciertos">"Aciertos: "</string>
+    <string name="errores">"Errores: "</string>
+
+    <string name="esp">Esp:</string>
+
+    <string name="iverbs">IRREGULARES</string>
+    <string name="misPalabrasLower">MIS PALABRAS</string>
+    <string name="situaciones">SITUACIONES</string>
+
+    <string name="palabras">" palabras"</string>
+    <string name="palabra">" palabra"</string>
+
+    <string name="si">Si</string>
+    <string name="no">No</string>
+
+    <string name="iniciar_partida">¿Iniciar nueva partida?</string>
+
+    <string name="correctas">"CORRECTAS: "</string>
+    <string name="incorrectas">"INCORRECTAS: "</string>
+
+    <string name="puntaje">"Mi puntaje en iWords!: \n"</string>
+    <string name="puntaje_msj">"Comparte el puntaje con amigos!"</string>
+
+    <string name="right">"RIGHT 🙂"</string>
+    <string name="wrong">"WRONG 🙁"</string>
+
+    <string name="siete_correctas">"¡Van 7 respuestas seguidas correctas! 👏"</string>
+    <string name="quince_correctas">"¡Van 15 respuestas seguidas correctas! 👏"</string>
+    <string name="veinte_correctas">"¡Van 20 respuestas seguidas correctas! 👏"</string>
+    <string name="treinta_y_cinco_correctas">"Wow! ¡Van 35 respuestas seguidas correctas! 👏"</string>
+
+    <string name="aceptar">"Aceptar"</string>
+    <string name="cancelar">"Cancelar"</string>
+    <string name="cargar">"Cargar"</string>
+
+    <string name="abandonar">"¿Abandonar partida?"</string>
+
+    <string name="verbos">" verbos"</string>
+    <string name="verbo_singular">" verbo"</string>
+
+    <string name="no_hay_verbos">"No hay verbos favoritos"</string>
+
+    <string name="verbos_incorrectos">"¿Quieres practicar los verbos incorrectos? (recomendado)"</string>
+
+
+    <!--Para toast-->
+    <string name="modo_contdown_desactivado">Modo contdown desactivado</string>
+    <string name="modo_contdown_activado">Modo contdown activado</string>
+    <string name="numero_valido">Ingresar un número válido</string>
+    <string name="maximo_de">"Maximo de "</string>
+    <string name="no_hay_palabras_favoritas">No hay palabras favoritas</string>
+    <string name="completar_campo">Completar campo</string>
+    <string name="practicar_incorrectas">¿Quieres practicar las palabras incorrectas? (recomendado)</string>
+
+    <string name="grabando">Grabando</string>
+
+    <string name="datos_validos">Completar con datos válidos</string>
+    <string name="grabar_pronunciacion">Grabar pronunciación</string>
+    <string name="grabando_tiempo_max">"Grabando (tiempo max: 10\")"</string>
+    <string name="grabacion_terminada">Grabación terminada</string>
+    <string name="texto_ingresado">"Texto ingresado: \n"</string>
+    <string name="agregar_nuevo_verbo">"¿Agregar nuevo verbo?"</string>
+    <string name="modificar_verbo">"¿Modificar verbo?"</string>
+    <string name="verbo_existe">"El verbo ya existe"</string>
+
+    <string name="aviso">AVISO</string>
+    <string name="borrar_historial">"¿Borrar el historial de partidas?"</string>
+    <string name="borrar_todos_los_verbos">"¿Borrar todos los verbos?"</string>
+
+    <string name="permiso_para_importar">"Se requiere permiso para importar"</string>
+    <string name="permiso_para_exportar">"Se requiere permiso para exportar"</string>
+    <string name="importando_contenido">"Importando contenido"</string>
+    <string name="contenido_importado">"Contenido importado"</string>
+    <string name="error_importar_contenido">"Error al importar contenido"</string>
+    <string name="contenido_no_valido">"El contenido importado no es válido"</string>
+
+    <string name="verbo_no_hallado">"Verbo no hallado"</string>
+    <string name="agregado_a_favoritos">"Agregado a favoritos"</string>
+
+    <string name="para_ver_op">"Para ver opciones mantener presionado en cada fila"</string>
+
+    <string name="palabra_no_hallada">"Palabra no hallada"</string>
+
+    <string name="borrar_palabras">"¿Borrar todos las palabras?"</string>
+
+    <string name="agregar_palabra">"AGREGAR PALABRA"</string>
+
+    <string name="palabra_existente">"Palabra existente"</string>
+
+    <string name="modificar_palabra">"MODIFICAR PALABRA"</string>
+
+</resources>

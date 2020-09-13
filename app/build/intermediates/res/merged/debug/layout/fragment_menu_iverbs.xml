@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    tools:context="com.binary_winters.projects.iverbs.fragments.MenuIverbsFragment">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_below="@+id/main_toolbar"
+        >
+        <ImageView
+            android:id="@+id/imageViewVerCargarPartida"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/circle_shape_generic"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:id="@+id/textVerCargarPartida"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageViewVerCargarPartida"
+            android:layout_alignTop="@+id/imageViewVerCargarPartida"
+            android:layout_alignRight="@+id/imageViewVerCargarPartida"
+            android:layout_alignBottom="@+id/imageViewVerCargarPartida"
+            android:gravity="center"
+            android:text="@string/cargarPartidaEnMenuDeIverbs"
+            android:textColor="#404040"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            />
+
+        <ImageView
+            android:id="@+id/imageViewVerVerbos"
+            android:layout_marginTop="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/circle_shape_generic"
+            android:layout_below="@+id/imageViewVerCargarPartida"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:id="@+id/textPracticarMisPalabras"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageViewVerVerbos"
+            android:layout_alignTop="@+id/imageViewVerVerbos"
+            android:layout_alignRight="@+id/imageViewVerVerbos"
+            android:layout_alignBottom="@+id/imageViewVerVerbos"
+            android:gravity="center"
+            android:text="@string/verbosIrregularesEnMenuDeIverbs"
+            android:textColor="#404040"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            />
+
+        <ImageView
+            android:id="@+id/imageViewMisVerbos"
+            android:layout_marginTop="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/circle_shape_generic"
+            android:layout_below="@+id/imageViewVerVerbos"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:id="@+id/textViewMisVerbos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageViewMisVerbos"
+            android:layout_alignTop="@+id/imageViewMisVerbos"
+            android:layout_alignRight="@+id/imageViewMisVerbos"
+            android:layout_alignBottom="@+id/imageViewMisVerbos"
+            android:gravity="center"
+            android:text="@string/misVerbosIrregularesEnMenuDeIverbs"
+            android:textColor="#404040"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            />
+
+        <ImageView
+            android:id="@+id/imageViewHistorialVerbos"
+            android:layout_marginTop="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/circle_shape_generic"
+            android:layout_below="@+id/imageViewMisVerbos"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:id="@+id/textViewHistorialVerbos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageViewHistorialVerbos"
+            android:layout_alignTop="@+id/imageViewHistorialVerbos"
+            android:layout_alignRight="@+id/imageViewHistorialVerbos"
+            android:layout_alignBottom="@+id/imageViewHistorialVerbos"
+            android:gravity="center"
+            android:text="@string/historialEnMenuDeIverbs"
+            android:textColor="#404040"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>

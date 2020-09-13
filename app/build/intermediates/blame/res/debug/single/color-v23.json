@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/chipo/.android/build-cache/892ea9f5688941b4fc6a48a4e4043be4d0bd847c/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/chipo/.android/build-cache/6c66d308db0894de9df7141b9cc1a48f63e6d2ba/output/res/color-v23/design_tint_password_toggle.xml"
+    }
+]

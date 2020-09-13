@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    tools:context="com.binary_winters.projects.iverbs.activities.PartidaIverbsActivity">
+
+    <LinearLayout
+        android:id="@+id/mainLinerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/xxx"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="visible">
+
+            <ImageView
+                android:id="@+id/imageViewStarFromMainActivity"
+                android:background="@mipmap/ic_void_star"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_toLeftOf="@+id/imageViewPronunciacionOn"
+                android:padding="100dp"
+                />
+
+            <ImageView
+                android:id="@+id/imageViewPronunciacionOn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="3dp"
+                android:src="@drawable/circle_shape_solo_escritura_xl"
+                android:layout_alignParentRight="true"
+                />
+
+            <TextView
+                android:id="@+id/textViewPronunciacionOn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/imageViewPronunciacionOn"
+                android:layout_alignTop="@+id/imageViewPronunciacionOn"
+                android:layout_alignRight="@+id/imageViewPronunciacionOn"
+                android:layout_alignBottom="@+id/imageViewPronunciacionOn"
+                android:gravity="center"
+                android:text="@string/pronunciacionOn"
+                android:textColor="#000"
+                android:textSize="24dp"
+                android:textStyle="bold"
+                />
+
+            <ImageView
+                android:id="@+id/imageViewPronunciacionOff"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="3dp"
+                android:src="@drawable/circle_shape_solo_escritura_pressed_xl"
+                android:layout_alignParentRight="true"
+                android:visibility="invisible"
+                />
+
+            <TextView
+                android:id="@+id/textViewPronunciacionOff"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/imageViewPronunciacionOff"
+                android:layout_alignTop="@+id/imageViewPronunciacionOff"
+                android:layout_alignRight="@+id/imageViewPronunciacionOff"
+                android:layout_alignBottom="@+id/imageViewPronunciacionOff"
+                android:gravity="center"
+                android:text="@string/pronunciacionOff"
+                android:textColor="#fff"
+                android:textSize="24dp"
+                android:textStyle="bold"
+                android:visibility="invisible"
+                />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            >
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                >
+                <TextView
+                    android:id="@+id/textViewLabelVerbo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="36dp"
+                    android:textStyle="bold"
+                    android:fontFamily="monospace"
+                    android:textColor="#000000"
+                    android:text="@string/verbo"
+                    android:layout_marginTop="10dp"
+                    />
+
+                <TextView
+                    android:id="@+id/textViewVerboEnEsp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:textSize="32dp"
+                    android:textStyle="bold"
+                    android:fontFamily="monospace"
+                    android:textColor="#000000"
+                    android:text="casa"
+                    android:maxWidth="170dp"
+                    android:maxLength="30"
+                    android:layout_marginTop="12dp"
+                    android:layout_toRightOf="@+id/textViewLabelVerbo"
+                    />
+
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/buttonSound"
+                android:background="@mipmap/ic_sound_verb"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="3dp"
+                />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            >
+
+            <ImageView
+                android:id="@+id/imageViewInfinitive"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/circle_shape_columnas_xl"
+                android:layout_marginTop="7dp"
+                />
+
+            <TextView
+                android:id="@+id/textViewInfinitiveCol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/imageViewInfinitive"
+                android:layout_alignTop="@+id/imageViewInfinitive"
+                android:layout_alignRight="@+id/imageViewInfinitive"
+                android:layout_alignBottom="@+id/imageViewInfinitive"
+                android:gravity="center"
+                android:text="@string/infinitive"
+                android:textColor="#000"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/firstRow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/editTextRow1_verb1"
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:maxHeight="30dp"
+                android:inputType="textVisiblePassword"
+                android:padding="2dp"
+                android:background="@drawable/edit_text"
+                android:textAlignment="center"
+                android:hint="@string/hintEscritura"
+                />
+
+            <TextView
+                android:id="@+id/textViewSeparador"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:fontFamily="monospace"
+                android:textColor="#000000"
+                android:text="-"
+                />
+
+            <EditText
+                android:id="@+id/editTextRow1_verb2"
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:inputType="textVisiblePassword"
+                android:padding="2dp"
+                android:background="@drawable/edit_text"
+                android:textAlignment="center"
+                android:maxHeight="30dp"
+                android:hint="@string/hintPronunciación"
+                />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            >
+
+            <ImageView
+                android:id="@+id/imageViewPastSimple"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/circle_shape_columnas_xl"
+                android:layout_marginTop="14dp"
+                />
+
+            <TextView
+                android:id="@+id/textViewPastSimpleCol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/imageViewPastSimple"
+                android:layout_alignTop="@+id/imageViewPastSimple"
+                android:layout_alignRight="@+id/imageViewPastSimple"
+                android:layout_alignBottom="@+id/imageViewPastSimple"
+                android:gravity="center"
+                android:text="@string/pastSimple"
+                android:textColor="#000"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            >
+
+            <EditText
+                android:id="@+id/editTextRow2_verb1"
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:padding="2dp"
+                android:background="@drawable/edit_text"
+                android:textAlignment="center"
+                android:maxHeight="30dp"
+                android:inputType="textVisiblePassword"
+                android:hint="@string/hintEscritura"
+                />
+
+            <TextView
+                android:id="@+id/textViewSeparador2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:fontFamily="monospace"
+                android:textColor="#000000"
+                android:text="-"
+                />
+
+            <EditText
+                android:id="@+id/editTextRow2_verb2"
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:padding="2dp"
+                android:ems="4"
+                android:background="@drawable/edit_text"
+                android:textAlignment="center"
+                android:maxHeight="30dp"
+                android:inputType="textVisiblePassword"
+                android:hint="@string/hintPronunciación"
+                />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            >
+
+            <ImageView
+                android:id="@+id/imageViewPastParticiple"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/circle_shape_columnas_xl"
+                android:layout_marginTop="14dp"
+                />
+
+            <TextView
+                android:id="@+id/textViewPastParticipleCol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/imageViewPastParticiple"
+                android:layout_alignTop="@+id/imageViewPastParticiple"
+                android:layout_alignRight="@+id/imageViewPastParticiple"
+                android:layout_alignBottom="@+id/imageViewPastParticiple"
+                android:gravity="center"
+                android:text="@string/pastParticiple"
+                android:textColor="#000"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayoutPastParticiple"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="16dp">
+
+            <EditText
+                android:id="@+id/editTextRow3_verb1"
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:padding="2dp"
+                android:background="@drawable/edit_text"
+                android:textAlignment="center"
+                android:maxHeight="30dp"
+                android:inputType="textVisiblePassword"
+                android:hint="@string/hintEscritura"
+                />
+
+            <TextView
+                android:id="@+id/textViewSeparador3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:fontFamily="monospace"
+                android:textColor="#000000"
+                android:text="-"
+                />
+
+            <EditText
+                android:id="@+id/editTextRow3_verb2"
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:padding="2dp"
+                android:ems="4"
+                android:background="@drawable/edit_text"
+                android:textAlignment="center"
+                android:maxHeight="30dp"
+                android:inputType="textVisiblePassword"
+                android:hint="@string/hintPronunciación"
+                />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageViewVerboAgregadoLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/circle_shape_generic"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="35dp"
+                />
+
+            <TextView
+                android:id="@+id/textViewDeImageViewVerboAgregadoLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/imageViewVerboAgregadoLabel"
+                android:layout_alignTop="@+id/imageViewVerboAgregadoLabel"
+                android:layout_alignRight="@+id/imageViewVerboAgregadoLabel"
+                android:layout_alignBottom="@+id/imageViewVerboAgregadoLabel"
+                android:gravity="center"
+                android:text="@string/verboAgregado"
+                android:textColor="#000"
+                android:textSize="20dp"
+                android:textStyle="bold"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonVerificar"
+        android:visibility="invisible"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="@string/buttonVerificar"
+        android:layout_alignParentBottom="true"
+        android:background="#FF0000"
+        android:textSize="32dp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:textColor="#000000"
+        />
+
+</RelativeLayout>

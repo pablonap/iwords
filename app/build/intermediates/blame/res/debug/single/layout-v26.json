@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/Iverbs/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/home/chipo/.android/build-cache/f08d2067c66a54ae2da87bd5a9f8f382578fd36c/output/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/chipo/AndroidStudioProjects/40_Iverbs_RELEASE_01/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/home/chipo/.android/build-cache/39ce72e55317ac5cbaa4a112708d9ca03c5daf1c/output/res/layout-v26/abc_screen_toolbar.xml"
+    }
+]

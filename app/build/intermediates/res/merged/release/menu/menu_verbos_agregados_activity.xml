@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_item_find_verbo"
+        android:title="Buscar"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_find"
+        />
+
+    <item
+        android:id="@+id/menu_item_add_verbo"
+        android:title="Agregar"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_add"
+        />
+
+    <item
+        android:id="@+id/menu_item_delete_verbos_agregados"
+        android:title="Borrar verbos"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_trash"
+        />
+
+    <item
+        android:id="@+id/menu_item_arriba_verbos"
+        android:title="@string/irArriba"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/menu_item_abajo_verbos"
+        android:title="@string/irAbajo"
+        app:showAsAction="never"
+        />
+
+</menu>
